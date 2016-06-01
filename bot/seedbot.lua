@@ -332,6 +332,8 @@ Demote someone
 !kickme
 Will kick user
 
+!spam 100
+hhhhhhhhhhhhshshshshshhsshshshs
 !about
 Group description
 
